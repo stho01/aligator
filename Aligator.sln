@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aligator", "Aligator\Aligator.csproj", "{A871EAD5-B2F6-4BD4-A8F8-9B06AF91F3F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aligator.Generator", "Aligator.Generator\Aligator.Generator.csproj", "{F834D4E2-9222-4F12-9132-1FD002417A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A871EAD5-B2F6-4BD4-A8F8-9B06AF91F3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A871EAD5-B2F6-4BD4-A8F8-9B06AF91F3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A871EAD5-B2F6-4BD4-A8F8-9B06AF91F3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A871EAD5-B2F6-4BD4-A8F8-9B06AF91F3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F834D4E2-9222-4F12-9132-1FD002417A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F834D4E2-9222-4F12-9132-1FD002417A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F834D4E2-9222-4F12-9132-1FD002417A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F834D4E2-9222-4F12-9132-1FD002417A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
